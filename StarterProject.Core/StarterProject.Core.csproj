@@ -11,4 +11,8 @@
     <Folder Include="Repository\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="WeChip.Package.Fw.EfCore" Version="1.0.20241115.3" />
+  </ItemGroup>
+
 </Project>
