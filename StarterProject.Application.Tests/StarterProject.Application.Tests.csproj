@@ -31,8 +31,4 @@
     <Folder Include="UseCases\" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\StarterProject.Application\StarterProject.Application.csproj" />
-  </ItemGroup>
-
 </Project>

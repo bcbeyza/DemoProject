@@ -15,9 +15,4 @@
     <PackageReference Include="WeChip.Package.Fw.Mapper.Mapster" Version="1.0.20240520.4" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\StarterProject.Core\StarterProject.Core.csproj" />
-    <ProjectReference Include="..\StarterProject.Persistance\StarterProject.Persistance.csproj" />
-  </ItemGroup>
-
 </Project>
